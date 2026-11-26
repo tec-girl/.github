@@ -292,3 +292,10 @@ Unless otherwise indicated in an individual repository, source code and document
 <p align="center">
   <strong>Open contracts. Shared meaning. Observable decisions. Interoperable industries.</strong>
 </p>
+
+
+## Contributors
+- [@tec-girl](https://github.com/tec-girl) — fork maintainer
+- [@psehgaft](https://github.com/psehgaft) — contributor
+- [@san985tos](https://github.com/san985tos) — contributor
+- [@frankjunker87-arch](https://github.com/frankjunker87-arch) — contributor
